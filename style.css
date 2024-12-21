@@ -1,0 +1,122 @@
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+}
+body {
+    color: white;
+     font-family: sans-serif;
+     background-color: black;
+}
+h1 {
+     text-align: center;
+     font-size: 30px;
+     color: rgb(250, 173, 73);
+}
+h3 {
+     font-size: 20px;
+     color: aqua;
+     margin-left: 30px
+}
+#main {
+     margin:25px 250px;
+     padding: 20px;
+     background-color:#243b55;
+     border: 3px solid rgb(240, 127, 127);
+     box-shadow: rgba(2, 4, 0, 2.5);
+     border-radius: 20px;
+}
+#name-box {
+     margin-left: 10px;
+     border:2px solid rgb(77, 33, 182);
+     border-radius: 5px;
+     height: 30px;
+     width: 350px;
+
+}
+
+#male {
+     margin-top:5px;
+     height: 15px;
+     width: 30px;
+}
+#female {
+     margin-left:25px;
+     height: 15px;
+     width: 30px;
+}
+#phone-box {
+     margin-left: 10px;
+     border:2px solid rgb(77, 33, 182);
+     border-radius: 5px;
+     height: 30px;
+     width: 250px;
+
+}
+#email {
+     margin-left: 50px;
+}
+#email-box {
+     margin-left: 10px;
+     border:2px solid rgb(77, 33, 182);
+     border-radius: 5px;
+     height: 30px;
+     width: 250px;
+}
+#app {
+     font-weight: 900;
+     margin-left: 220px;
+}
+.apps {
+     margin-left: 25px;
+     margin-top: 10px;
+     height: 15px;
+     width: 30px;
+}
+#ticket-num {
+     border:2px solid rgb(77, 33, 182);
+     border-radius: 5px;
+     height: 30px;
+     width: 250px;
+}
+#pay {
+     margin-left: 300px;
+}
+#card {
+     margin-left: 55px;
+     margin-bottom: 55px;
+     margin-top: 10px;
+}
+.payment {
+     margin-left: 15px;
+     margin-top: 5px;
+     height: 15px;
+     width: 30px;
+}
+#sign {
+     margin-left: 650px;
+     margin-top: 30px;
+     text-decoration: overline;
+}
+#btn {
+     margin-left: 350px;
+     margin-top: 20px;
+     padding: 5px;
+     height: 40px;
+     width: 100px;
+     border-radius: 10px;
+     background-color: lightblue;
+     font-weight: 800;
+     border: 2px solid black;
+}
+p {
+     color: rgb(131, 234, 238);
+}
+h4 {
+     color: black;
+}
+#btn:hover {
+     height: 43px;
+     width: 105px;
+     background-color: red;
+}
